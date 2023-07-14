@@ -9,4 +9,8 @@
   @include for-desktop {
     max-width: 1260px;
   }
+
+  &--with-menu {
+    overflow: hidden;
+  }
 }
